@@ -1,3 +1,6 @@
 # itws2110-F25-pamidn
 Lab 1:
 - In this lab we were instructed to create our CV/Resume and ensure that its up to date on all of our accolades and experiences throughout our lives. I was able to include my schooling years, as well as oppurtunities and job experiences. I did run into a problem with scrolling on the page itself, but once I got added of the "overflow:scroll ", I was able to fix it and ensure that everything was perfect!
+
+Lab 2:
+- In this lab we were instructed to analyze the Consitution and make our own interactive site to learn more about the document. In honor of National Consitution Day (9/17) we were told to analyze the Ammendments and Articles, as well as providing an overview of the history of this sacred document. We ran into some issues when we were formatting our site with the CSS and HTML, but we were able to fix it accordingly! We also added stars to both the top and bottom of the document and so formatting the 'divs' to make sure it was oerfectly centered and colored was a challenge but we were able to fix it!
