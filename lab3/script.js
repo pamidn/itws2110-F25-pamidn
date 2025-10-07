@@ -1,4 +1,4 @@
-const API_KEY = "2738bcc73639fddc762f871fc4a9088e"; // Replace with your OpenWeatherMap key
+const API_KEY = "2738bcc73639fddc762f871fc4a9088e"; 
 const city = "Troy";
 
 async function getWeather() {
