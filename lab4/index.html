@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weather & Words 🌦️📚</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>🌦️ Weather & Words 📚</h1>
+
+  <div class="input-box">
+    <input type="text" id="city" placeholder="Enter a city..." />
+    <button id="searchBtn">Get Info</button>
+  </div>
+
+  <div class="container">
+    <div class="card" id="weather-card">
+      <h2>Current Weather</h2>
+      <div id="weather-info">
+        <p id="city-name">City: </p>
+        <p id="temperature">Temperature: °C</p>
+        <p id="description">Description: </p>
+        <img id="icon" src="" alt="Weather Icon" />
+      </div>
+    </div>
+
+    <div class="card" id="word-card">
+      <h2>Word of the Day</h2>
+      <p id="word">--</p>
+      <p id="partOfSpeech">--</p>
+      <p id="definition">--</p>
+      <button id="newWordBtn">New Word</button>
+    </div>
+  </div>
+
+  <script src="sc.js"></script>
+</body>
+</html>

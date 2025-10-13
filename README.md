@@ -9,5 +9,6 @@ Lab 3:
 - In this lab we were given directions to utilize the OpenWeatherMap API and Dog CEO — to display real-time weather data for Troy, NY, along with a random dog image for fun. The app shows the current temperature, condition, humidity, and wind speed, includes a weather emoji that matches the conditions, and displays the last updated time. The background uses a smooth gradient that changes color based on the temperature, shifting from blue when cold to green when mild and red when hot. People can also click a button to view a new random dog image at any time. The app retrieves weather data through the OpenWeatherMap API and random dog images from the Dog CEO API.  
 The APIs used are documented at https://openweathermap.org/api and https://dog.ceo/dog-api/.
 
-
+Lab 4:
+- README is inside the lab4 folder! 
 
