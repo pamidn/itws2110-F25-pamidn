@@ -8,7 +8,7 @@ Lab 4:
 
 3. Can you make it pretty with the updated code
 
-4. Make the boxes next to each other not one on top of the other, and change the background to a nice color
+4. No, make the boxes next to each other not one on top of the other, and change the background to a nice color
 
 5. Split code into index.html, sc.js, and styles.css
 
