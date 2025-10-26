@@ -1,0 +1,40 @@
+{
+  "dishes": [
+    {
+      "name": "Spicy Tuna Roll",
+      "description": "A classic Japanese sushi roll filled with spicy tuna, cucumber, and scallions, wrapped in seaweed and rice.",
+      "category": "Non-Vegetarian",
+      "cuisine": "Japanese",
+      "image": "resources/img/Spicy-Tuna-Sushi-6-683x1024.webp",
+      "ingredients": ["Tuna", "Sushi Rice", "Seaweed", "Spicy Mayo", "Cucumber", "Scallions"],
+      "price": "$12.99"
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "description": "Tender chunks of chicken marinated in spices and grilled, served in a creamy tomato sauce.",
+      "category": "Non-Vegetarian",
+      "cuisine": "Indian",
+      "image": "resources/img/chicken-tikka-masala-butter-ch-9e2cc3.jpg",
+      "ingredients": ["Chicken", "Yogurt", "Tomatoes", "Cream", "Garlic", "Spices"],
+      "price": "$15.49"
+    },
+    {
+      "name": "Nachos",
+      "description": "Crispy tortilla chips topped with melted cheese, chicken, jalapeños, sour cream, guacamole, and salsa.",
+      "category": "Non-Vegetarian",
+      "cuisine": "Mexican",
+      "image": "resources/img/BBQ-Chicken-Nachos-2.jpg",
+      "ingredients": ["Tortilla Chips", "Chicken", "Cheese", "Jalapeños", "Sour Cream", "Guacamole", "Salsa"],
+      "price": "$13.99"
+    },
+    {
+      "name": "Tiramisu",
+      "description": "An Italian dessert made of coffee-soaked ladyfingers layered with mascarpone cream and cocoa powder.",
+      "category": "Vegetarian",
+      "cuisine": "Italian",
+      "image": "resources/img/tiramisu-17-1024x1536.jpg",
+      "ingredients": ["Ladyfingers", "Mascarpone", "Coffee", "Cocoa Powder", "Sugar", "Eggs"],
+      "price": "$7.99"
+    }
+  ]
+}
