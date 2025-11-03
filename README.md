@@ -12,3 +12,5 @@ The APIs used are documented at https://openweathermap.org/api and https://dog.c
 Lab 4:
 - README is inside the lab4 folder! 
 
+Lab 6:
+- README is inside the lab6 folder!

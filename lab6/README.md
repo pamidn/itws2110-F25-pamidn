@@ -1,0 +1,2 @@
+Lab 6:
+-   In this lab we were instructed to create a basic calculator with the given code using PHP with object-oriented programming and form input handling. All the answers to the questions are provided in the PHP file!
