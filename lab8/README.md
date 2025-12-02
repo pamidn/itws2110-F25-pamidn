@@ -1,0 +1,3 @@
+In this lab required creating a MySQL database called websyslab8, building three tables (students, courses, grades), adding fields, inserting sample data, and running SQL queries.
+
+I created the tables, added the required fields, inserted 4 students, 4 courses, and 10 grades, and ran all queries for Part 2. The outputs shown in the submission come directly from the MySQL command line. I didn't really run into or have any major issues that occurred other than fixing MySQL setup and adjusting the phone number column type and ensuring that it was ready to go!
